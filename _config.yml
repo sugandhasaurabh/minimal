@@ -1,6 +1,11 @@
 title: Sugandha Saurabh
 logo: /assets/img/Sugandh.JPG
-description: Associate Consultant @CGI | Data Science Enthusiast | AI & ML Engineer
-show_downloads: true
+description: Associate Consultant @ CGI | Data Science Enthusiast | AI & ML Engineer
+
+
+
+show_downloads: false
 google_analytics:
+
+
 theme: jekyll-theme-minimal
